@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Реклама WOT",
+    "image_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/wot_banner.png",
+    "target_url": "https://worldoftanks.ru",
+    "position": [0, 0],
+    "size": [2, 2]
+  },
+  {
+    "id": 2,
+    "title": "Спецпредложение",
+    "image_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/special_offer.gif",
+    "target_url": "https://example.com/special",
+    "position": [2, 1],
+    "size": [1, 1]
+  },
+  {
+    "id": 3,
+    "title": "Новый танк",
+    "image_url": "https://raw.githubusercontent.com/yourusername/yourrepo/main/banners/new_tank.jpg",
+    "target_url": "https://example.com/new-tank",
+    "position": [5, 3],
+    "size": [1, 2]
+  }
+]
