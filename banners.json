@@ -10,7 +10,7 @@
   {
     "id": 2,
     "title": "TGK",
-    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/tree/main/advertising/2/primer 480x124.png",
+    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/2/primer%20480x124.png",
     "target_url": "https://t.me/autobattIe",
     "position": [0, 1],
     "size": [2, 2]
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "title": "TGK",
-    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/tree/main/advertising/3/primer 240x124.png",
+    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/3/primer%20240x124.png",
     "target_url": "https://t.me/autobattIe",
     "position": [5, 3],
     "size": [1, 2]
@@ -48,6 +48,7 @@
     "size": [4, 1]
   }
 ]
+
 
 
 
