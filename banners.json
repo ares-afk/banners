@@ -46,8 +46,25 @@
     "target_url": "https://t.me/autobattIe",
     "position": [1, 1],
     "size": [1, 1]
+  },
+  {
+    "id": 7,
+    "title": "TGK",
+    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/8/235х60.png",
+    "target_url": "https://t.me/autobattIe",
+    "position": [2, 1],
+    "size": [1, 1]
+  },
+  {
+    "id": 8,
+    "title": "TGK",
+    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/9/235х59.png",
+    "target_url": "https://t.me/autobattIe",
+    "position": [3, 1],
+    "size": [1, 1]
   }
 ]
+
 
 
 
