@@ -44,10 +44,11 @@
     "title": "TGK",
     "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/1/primer%20240x62.png",
     "target_url": "https://t.me/autobattIe",
-    "position": [1, 0],
+    "position": [0, 1],
     "size": [1, 1]
   }
 ]
+
 
 
 
