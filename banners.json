@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "TGK",
-    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/1/primer%20240x62.png",
+    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/9/235х59.png",
     "target_url": "https://t.me/autobattIe",
     "position": [0, 0],
     "size": [1, 1]
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "title": "TGK",
-    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/1/primer%20240x62.png",
+    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/9/235х59.png",
     "target_url": "https://t.me/autobattIe",
     "position": [1, 0],
     "size": [1, 1]
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "title": "TGK",
-    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/1/primer%20240x62.png",
+    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/9/235х59.png",
     "target_url": "https://t.me/autobattIe",
     "position": [2, 0],
     "size": [1, 1]
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "title": "TGK",
-    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/1/primer%20240x62.png",
+    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/9/235х59.png",
     "target_url": "https://t.me/autobattIe",
     "position": [3, 0],
     "size": [1, 1]
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "title": "TGK",
-    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/1/primer%20240x62.png",
+    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/9/235х59.png",
     "target_url": "https://t.me/autobattIe",
     "position": [0, 1],
     "size": [1, 1]
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "title": "TGK",
-    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/7/236x60.png",
+    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/9/235х59.png",
     "target_url": "https://t.me/autobattIe",
     "position": [1, 1],
     "size": [1, 1]
@@ -50,7 +50,7 @@
   {
     "id": 7,
     "title": "TGK",
-    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/8/235х60.png",
+    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/9/235х59.png",
     "target_url": "https://t.me/autobattIe",
     "position": [2, 1],
     "size": [1, 1]
@@ -64,6 +64,7 @@
     "size": [1, 1]
   }
 ]
+
 
 
 
