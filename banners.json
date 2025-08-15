@@ -10,44 +10,45 @@
   {
     "id": 2,
     "title": "TGK",
-    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/2/primer%20480x124.png",
+    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/1/primer%20240x62.png",
     "target_url": "https://t.me/autobattIe",
     "position": [0, 1],
-    "size": [2, 2]
+    "size": [1, 1]
   },
   {
     "id": 3,
     "title": "TGK",
-    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/3/primer%20240x124.png",
+    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/1/primer%20240x62.png",
     "target_url": "https://t.me/autobattIe",
-    "position": [5, 3],
-    "size": [1, 2]
+    "position": [0, 2],
+    "size": [1, 1]
   },
   {
     "id": 4,
     "title": "TGK",
-    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/4/240x248.png",
+    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/1/primer%20240x62.png",
     "target_url": "https://t.me/autobattIe",
-    "position": [2, 1],
+    "position": [0, 3],
     "size": [2, 2]
   },
   {
     "id": 5,
     "title": "TGK",
-    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/5/960x124.png",
+    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/1/primer%20240x62.png",
     "target_url": "https://t.me/autobattIe",
-    "position": [2, 1],
-    "size": [2, 2]
+    "position": [0, 4],
+    "size": [1, 1]
   },
   {
     "id": 6,
     "title": "TGK",
-    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/6/960x62.png",
+    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/1/primer%20240x62.png",
     "target_url": "https://t.me/autobattIe",
-    "position": [5, 0],
-    "size": [4, 1]
+    "position": [1, 0],
+    "size": [1, 1]
   }
 ]
+
 
 
 
