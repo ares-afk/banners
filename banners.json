@@ -36,7 +36,7 @@
     "title": "TGK",
     "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/1/primer%20240x62.png",
     "target_url": "https://t.me/autobattIe",
-    "position": [4, 0],
+    "position": [0, 1],
     "size": [1, 1]
   },
   {
@@ -44,10 +44,11 @@
     "title": "TGK",
     "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/7/236x60.png",
     "target_url": "https://t.me/autobattIe",
-    "position": [0, 1],
+    "position": [1, 1],
     "size": [1, 1]
   }
 ]
+
 
 
 
