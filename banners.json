@@ -62,8 +62,17 @@
     "target_url": "https://t.me/autobattIe",
     "position": [3, 1],
     "size": [1, 1]
+  },
+  {
+    "id": 9,
+    "title": "TGK",
+    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/10/235x59.gif",
+    "target_url": "https://t.me/autobattIe",
+    "position": [0, 2],
+    "size": [1, 1]
   }
 ]
+
 
 
 
