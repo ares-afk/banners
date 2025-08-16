@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "TGK",
-    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/9/235х59.png",
+    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/10/235x59.gif",
     "target_url": "https://t.me/autobattIe",
     "position": [0, 0],
     "size": [1, 1],
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "title": "TGK",
-    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/9/235х59.png",
+    "image_url": "https://raw.githubusercontent.com/ares-afk/banners/main/advertising/10/235x59.gif",
     "target_url": "https://t.me/autobattIe",
     "position": [3, 0],
     "size": [1, 1],
@@ -90,6 +90,7 @@
     "end_date": "2026-01-10 23:59:59"
   }
 ]
+
 
 
 
